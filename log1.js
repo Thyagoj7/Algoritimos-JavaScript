@@ -59,7 +59,7 @@ if(frigideira == true ) {
 
 
 /*Algoritimo um usando crosure --- A função é chamada dentro de uma função tendos seus paramentros das 
-variaveis criadas dentro da função a que foi atribuida*/
+variaveis criadas dentro da função a que foi atribuida-----------------------------------------*/
 
 /*function frigideira(){
      var oleo = true;
@@ -92,8 +92,8 @@ variaveis criadas dentro da função a que foi atribuida*/
             }
              frigideira();*/
 
-
-             function frigideira(){
+/*cruse desta vez usando retorno -----------------------------------------------------*/
+             /*function frigideira(){
                 var oleo = true;
                 var fogo = true;               
                        function alimentos(){
@@ -107,7 +107,7 @@ variaveis criadas dentro da função a que foi atribuida*/
                            return alimentos;
                        }
                         var preparo = frigideira();
-                        preparo();
+                        preparo();*/
             
 
             
